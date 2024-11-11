@@ -1,3 +1,6 @@
+# Mashup of multiple older scripts.
+# Original creators lost to time, but if you are responsible for any of this please get in touch!
+
 $msg = ""
 $WMIFlag = ""
 #$InstallDate = "NULL"
